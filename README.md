@@ -12,8 +12,8 @@ Reproduction of figure 3 of In-sensor reservoir computing for language learning 
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td valign="top"><img src="002_output_memristor_and_weights"></td>
-    <td valign="top"><img src="002_output_memristor_and_weights"></td>
-    <td valign="top"><img src="002_output_memristor_and_weights"></td>
+    <td valign="top"><img src="002_output_memristor_and_weights.png"></td>
+    <td valign="top"><img src="002_output_memristor_and_weights.png"></td>
+    <td valign="top"><img src="002_output_memristor_and_weights.png"></td>
   </tr>
  </table>
