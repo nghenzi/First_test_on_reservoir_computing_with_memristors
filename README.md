@@ -1,6 +1,8 @@
 # First_test_on_reservoir_computing_with_memristors
 Reproduction of figure 3 of In-sensor reservoir computing for language learning via two-dimensional memristors
 
+<img src="reservoir_computing_example.png" width="400"/>
+
 <table>
   <tr>
     <td> Training Letters</td>
